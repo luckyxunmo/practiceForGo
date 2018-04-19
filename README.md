@@ -1,2 +1,2 @@
 # practiceForGo
- practice for Go, Go 常见的应用
+ practice for Go, Go中常见结构的练习
